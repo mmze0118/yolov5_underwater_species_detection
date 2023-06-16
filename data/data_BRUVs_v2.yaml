@@ -1,0 +1,13 @@
+train: C:/Users/marcu/OneDrive/Desktop/training_data/train/images
+val: C:/Users/marcu/OneDrive/Desktop/training_data/valid/images
+test: C:/Users/marcu/OneDrive/Desktop/training_data/test/images
+
+nc: 3
+names: ['ray', 'reef fish', 'shark']
+
+roboflow:
+  workspace: fyp-b7z9h
+  project: underwater-species-detection-on-bruvs
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fyp-b7z9h/underwater-species-detection-on-bruvs/dataset/4
