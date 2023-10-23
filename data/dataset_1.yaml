@@ -1,0 +1,13 @@
+train: C:/Users/marcu/OneDrive/Desktop/Marcus_Edu/Y3S2/FYP/Training Data/Dataset 1/train/images
+val: C:/Users/marcu/OneDrive/Desktop/Marcus_Edu/Y3S2/FYP/Training Data/Dataset 1/valid/images
+test: C:/Users/marcu/OneDrive/Desktop/Marcus_Edu/Y3S2/FYP/Training Data/Dataset 1/test/images
+
+nc: 2
+names: ['ray', 'shark']
+
+roboflow:
+  workspace: fyp-b7z9h
+  project: underwaterspeciesdetection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fyp-b7z9h/underwaterspeciesdetection/dataset/1
